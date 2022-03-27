@@ -1,24 +1,23 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+import GetAnimals from './components/GetAnimals';
+import pearLogo from './assets/zooLogo.svg';
+import GithubLogo from './assets/GithubLogo.svg'; 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className='main'>
+          <div className="App-container">
+                  <div className='linkContainer'>
+                    <a href="https://github.com/wahlstrommm"><img src={GithubLogo} alt="Github" className='githubLogo'/></a>
+                  </div>
+                <div className='logoContainer'>
+              <img src={pearLogo} alt="Logo for zoo" className='imgLogo' />
+          </div>
+            <GetAnimals/>
+        </div>
+      </div>
     </div>
   );
 }
