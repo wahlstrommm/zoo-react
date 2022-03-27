@@ -84,7 +84,7 @@ function GetAnimals() {
                       <br /> Namn: {animalAPI.name} <i>{animalAPI.latinName}</i> 
                       <br /> <br /> Född: {animalAPI.yearOfBirth} <br /> 
                       Beskrvning: {animalAPI.shortDescription}  <br />
-                      <Link to={`/animalinfo/${animalAPI.id}`}><button className='btn' >Klicka för att mata och lära känna {animalAPI.name} !</button></Link>
+                      <Link to={`/main/animalinfo/${animalAPI.id}`}><button className='btn' >Klicka för att mata och lära känna {animalAPI.name} !</button></Link>
                   </p> 
                 </div>
       )})}

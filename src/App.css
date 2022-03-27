@@ -203,3 +203,8 @@ width: 40%;
   position: relative;
   bottom: 10px;
 }
+.Nofound{
+  background-color: #282c34;
+  height: 100vh;
+  text-align: center;
+}
