@@ -109,7 +109,7 @@ const [animalsFromLS, SetAnimalsFromLS] = useState<any>();
           <img src={animalsFromLS[i].imageUrl} className='imgContainerForInfo' alt={animalsFromLS[i].name} /> 
               <div className='btnContainer'>
                 <div className='feedBtnContainer'><button disabled={disable} onClick={()=>(feedAnimal(animalID),setDisable(true))} className='btn'>Mata djuret ( {animalsFromLS[i].name} )</button></div>
-                <div className='homeBtnContainer'><Link to={`/main`}><button className='btn' >Hem!</button></Link></div>
+                <div className='homeBtnContainer'><Link to={`/`}><button className='btn' >Hem!</button></Link></div>
               </div> 
         </div>
       </div>
