@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/zoo-react/main/static/css/main.6483545c.css",
-    "main.js": "/zoo-react/main/static/js/main.9a4c44b0.js",
-    "static/js/787.2cb77e5a.chunk.js": "/zoo-react/main/static/js/787.2cb77e5a.chunk.js",
-    "static/media/logoText.svg": "/zoo-react/main/static/media/logoText.a3a24d382030906aefd7bc67ff502523.svg",
-    "static/media/zooLogo.svg": "/zoo-react/main/static/media/zooLogo.e02608c9613931d9c84714d96d3b1067.svg",
-    "static/media/GithubLogo.svg": "/zoo-react/main/static/media/GithubLogo.dfa867cee7361d5d0b98b7c7b4424338.svg",
-    "index.html": "/zoo-react/main/index.html",
-    "main.6483545c.css.map": "/zoo-react/main/static/css/main.6483545c.css.map",
-    "main.9a4c44b0.js.map": "/zoo-react/main/static/js/main.9a4c44b0.js.map",
-    "787.2cb77e5a.chunk.js.map": "/zoo-react/main/static/js/787.2cb77e5a.chunk.js.map"
+    "main.css": "/zoo-react/static/css/main.6483545c.css",
+    "main.js": "/zoo-react/static/js/main.a05a9ff8.js",
+    "static/js/787.2cb77e5a.chunk.js": "/zoo-react/static/js/787.2cb77e5a.chunk.js",
+    "static/media/logoText.svg": "/zoo-react/static/media/logoText.a3a24d382030906aefd7bc67ff502523.svg",
+    "static/media/zooLogo.svg": "/zoo-react/static/media/zooLogo.e02608c9613931d9c84714d96d3b1067.svg",
+    "static/media/GithubLogo.svg": "/zoo-react/static/media/GithubLogo.dfa867cee7361d5d0b98b7c7b4424338.svg",
+    "index.html": "/zoo-react/index.html",
+    "main.6483545c.css.map": "/zoo-react/static/css/main.6483545c.css.map",
+    "main.a05a9ff8.js.map": "/zoo-react/static/js/main.a05a9ff8.js.map",
+    "787.2cb77e5a.chunk.js.map": "/zoo-react/static/js/787.2cb77e5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6483545c.css",
-    "static/js/main.9a4c44b0.js"
+    "static/js/main.a05a9ff8.js"
   ]
 }
